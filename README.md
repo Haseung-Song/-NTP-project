@@ -5,5 +5,6 @@
 [무한 루프 자동 동기화.zip](https://github.com/Haseung-Song/-NTP-project/files/14343827/default.zip)
 
 [솔탑 OJT 발표 자료] - NTP 시간 동기화 페이지 포함
-[SOLETOP_OJT 발표자료(보안 프로젝트_제외)_송하승 연구원_최종_0616.pptx](https://github.com/user-attachments/files/15858228/SOLETOP_OJT._._._._0616.pptx)
 
+
+[SOLETOP_OJT 발표자료(보안 프로젝트_제외)_송하승 연구원_최종_0616.pptx](https://github.com/user-attachments/files/15858228/SOLETOP_OJT._._._._0616.pptx)
